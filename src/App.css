@@ -1,4 +1,26 @@
-.App {
+@import '~antd/dist/antd.css';
+.header{
+  text-align: center;
+}
+.button{
+    outline: none;
+    margin: 10px;
+    border: 1px solid #607D88;
+    border-radius: 4px;
+    color: white;
+    background: #2196F3;
+    text-transform: uppercase;
+}
+.clear{
+  text-align: left;
+  margin-bottom: 10px;
+  float: left;
+}
+.container{
+  padding: 20px 20px 0px 20px;
+  width:100%;
+}
+.content {
   text-align: center;
 }
 
